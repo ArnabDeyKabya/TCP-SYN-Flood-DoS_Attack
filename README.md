@@ -60,7 +60,7 @@ chmod +x attacker.py
 Run the tool with root privileges:
 
 ```bash
-sudo python3 gpt.py
+sudo python3 attacker.py
 ```
 
 The tool will prompt you for the following parameters:
