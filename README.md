@@ -38,7 +38,7 @@ A Python-based TCP SYN flood tool designed for educational purposes and network 
 
 ```bash
 git clone https://github.com/ArnabDeyKabya/TCP-SYN-Food-DoS_Attack.git
-cd TCP-SYN-Food-DoS_Attack
+cd TCP-SYN-Flood-DoS_Attack
 ```
 
 2. Ensure you have Python 3 installed:
