@@ -50,7 +50,7 @@ python3 --version
 3. Make the script executable (optional):
 
 ```bash
-chmod +x gpt.py
+chmod +x attacker.py
 ```
 
 ## Usage
